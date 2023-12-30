@@ -87,7 +87,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [Mariam Rashad](mariamrashad062@gmail.com).
+For any questions or inquiries, please contact [mariamrashad062@gmail.com](mailto:mariamrashad062@gmail.com).
 ```
 
 
